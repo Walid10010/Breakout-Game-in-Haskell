@@ -1,0 +1,44 @@
+label {
+    font-size: 100px;
+    font-family: ice kingdom;
+    color: white;
+}
+
+button label {
+  font-size: 40px;
+    font-family: electrolize;
+    color: black;   
+}
+
+box label {
+   font-size: 20px;
+    font-family: electrolize;
+    color: black;  
+}
+
+scale {
+ font-size: 20px;
+ font-family:ice kingdom;
+ color: white;
+   
+}
+button:hover {
+background: lightblue;
+box-shadow: 5px 40px 10px rgba(0,0,0,0.57);
+transition: all 0.4s ease 0s;
+border-radius: 50px;
+}
+grid label {
+  font-size: 40px;
+
+}
+entry{
+  font-size: 40px;
+  font-family: electrolize;
+
+}
+window{
+ background: black;
+
+
+}

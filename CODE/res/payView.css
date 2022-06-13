@@ -1,0 +1,51 @@
+label {
+    font-size: 40px;
+    font-family: ice kingdom;
+     color: white;
+}
+box textview{
+  font-size: 15px;  
+  font-family:ice kingdom;
+  color:lightblue;
+}
+texbuffer{
+  color:lightblue;
+
+}
+
+button label {
+  font-size: 40px;
+    font-family: electrolize;
+    color: black;   
+}
+
+scale {
+ font-size: 20px;
+ font-family:ice kingdom;
+ color: white;
+   
+
+}
+
+box label{
+  color: lightgreen;
+}
+button:hover{
+background: white;
+border-radius: 0px;
+
+}
+paned separator{
+     background: blue ;
+     border: 1px dashed blue;
+}
+entry{
+  font-size: 40px;
+  font-family: electrolize;
+
+}
+window{
+ background: black;
+
+
+}
