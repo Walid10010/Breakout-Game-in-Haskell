@@ -1,7 +1,9 @@
 # Breakout-Game-in-Haskell
 
-# You need Cabal to run the programm. To run the code:
+A **networked Breakout clone** implemented entirely in **Haskell**, featuring:
 
-## cabal new-build 
-
-## cabaal new-run
+-  **GTK-based GUI** for the game interface  
+-  **MVar concurrency** for safe shared-state updates  
+-  **UDP & TCP communication** for multiplayer and real-time sync  
+-  Purely functional game logic separated from IO  
+-  Modular Cabal structure for clean builds and testing  
